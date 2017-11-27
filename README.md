@@ -1,3 +1,3 @@
 # funWithFuture
 
-Playing with multi-threading in java syntax. 
+Playing with asychronous programming in Java, using future and thread pool concept. 
